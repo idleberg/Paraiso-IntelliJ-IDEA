@@ -4,7 +4,7 @@ A color scheme inspired by the colorful illustrations by Brazilian artist [Ruben
 
 ![Animated Screenshot](https://raw.github.com/idleberg/Paraiso-IntelliJ-IDEA/master/images/screenshot.gif)
 
-*Generic screenshot of the Paraíso theme*
+*Generic screenshot of the Paraíso themes*
 
 ## Installation
 
