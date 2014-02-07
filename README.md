@@ -20,7 +20,7 @@ A color scheme inspired by the colorful illustrations by Brazilian artist [Ruben
 2. Copy the file to `%APPDATA%\Preferences\IdeaIC13\colors` *
 3. Select theme in _Preferences > Editor > Colors & Fonts_
 
-_* directory might vary, __IntelliJ IDEA 13 CE__ in this example_
+_* directory might vary, **IntelliJ IDEA 13 CE** in this example_
 
 ## License
 
