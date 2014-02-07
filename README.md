@@ -17,7 +17,7 @@ A color scheme inspired by the colorful illustrations by Brazilian artist [Ruben
 ### Windows
 
 1. Download a `.icls` file of your choice
-2. Copy the file to `%APPDATA%\Preferences\IdeaIC13\colors` *
+2. Copy the file to `%APPDATA%\.IdeaIC13\config\colors` *
 3. Select theme in _Preferences > Editor > Colors & Fonts_
 
 _* directory might vary, **IntelliJ IDEA 13 CE** in this example_
