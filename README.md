@@ -2,7 +2,7 @@
 
 A color scheme inspired by the colorful illustrations by Brazilian artist [Rubens LP](http://www.rubenslp.com.br/).
 
-![Animated Screenshot](https://raw.github.com/idleberg/Paraiso-IntelliJ-IDEA/master/images/screenshot.gif)
+![Animated Screenshot](https://raw.github.com/idleberg/Paraiso-IntelliJ-IDEA/master/screenshot.png)
 
 *Generic screenshot of the Paraíso themes*
 
